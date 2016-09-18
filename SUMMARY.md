@@ -5,5 +5,5 @@
    * [章节和子章节](format/chapters.md)
    * [Markdown](format/markdown.md)
 * [如何在 ubuntu 下安装搜狗输入法](posts/work03.md)
-* [庆祝1](qing_zhu_1.md)
+* [qz1](qing_zhu_1.md)
 
